@@ -70,6 +70,9 @@ export const translations = {
     footer: {
       rights: 'Wszelkie prawa zastrzeżone',
       tagline: 'Wędkarstwo na najwyższym poziomie',
+      community: 'Dołącz do naszej społeczności!',
+      communityDesc: 'Śledź nowości, dziel się swoimi połowami i bądź na bieżąco z premierą RealFish JigHead.',
+      joinFacebook: 'Dołącz na Facebooku',
     },
   },
   de: {
@@ -141,6 +144,9 @@ export const translations = {
     footer: {
       rights: 'Alle Rechte vorbehalten',
       tagline: 'Angeln auf höchstem Niveau',
+      community: 'Treten Sie unserer Community bei!',
+      communityDesc: 'Verfolgen Sie Neuigkeiten, teilen Sie Ihre Fänge und bleiben Sie über die Premiere von RealFish JigHead informiert.',
+      joinFacebook: 'Auf Facebook beitreten',
     },
   },
   en: {
@@ -212,6 +218,9 @@ export const translations = {
     footer: {
       rights: 'All rights reserved',
       tagline: 'Fishing at the highest level',
+      community: 'Join our community!',
+      communityDesc: 'Follow the news, share your catches, and stay updated on the RealFish JigHead premiere.',
+      joinFacebook: 'Join on Facebook',
     },
   },
 } as const;
