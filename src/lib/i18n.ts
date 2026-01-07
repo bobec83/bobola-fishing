@@ -41,9 +41,9 @@ export const translations = {
       title: 'O produkcie',
       description: 'RealFish JigHead to owoc wieloletniego doświadczenia i pasji do wędkarstwa. Stworzyliśmy główkę jigową, która łączy w sobie najnowsze technologie z tradycyjnym rzemiosłem wędkarskim.',
       stats: [
-        { value: '100%', label: 'Satysfakcji' },
+        { value: '100%', label: 'Rękodzieło' },
         { value: '3', label: 'Rozmiary' },
-        { value: '5', label: 'Kolorów' },
+        { value: '∞', label: 'Unikalnych wzorów' },
       ],
     },
     contact: {
@@ -102,9 +102,9 @@ export const translations = {
       title: 'Über das Produkt',
       description: 'RealFish JigHead ist das Ergebnis langjähriger Erfahrung und Leidenschaft für das Angeln. Wir haben einen Jigkopf geschaffen, der modernste Technologie mit traditionellem Angelhandwerk verbindet.',
       stats: [
-        { value: '100%', label: 'Zufriedenheit' },
+        { value: '100%', label: 'Handarbeit' },
         { value: '3', label: 'Größen' },
-        { value: '5', label: 'Farben' },
+        { value: '∞', label: 'Einzigartige Designs' },
       ],
     },
     contact: {
@@ -163,9 +163,9 @@ export const translations = {
       title: 'About the product',
       description: 'RealFish JigHead is the result of years of experience and passion for fishing. We created a jig head that combines the latest technology with traditional fishing craftsmanship.',
       stats: [
-        { value: '100%', label: 'Satisfaction' },
+        { value: '100%', label: 'Handcrafted' },
         { value: '3', label: 'Sizes' },
-        { value: '5', label: 'Colors' },
+        { value: '∞', label: 'Unique designs' },
       ],
     },
     contact: {
