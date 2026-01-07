@@ -58,7 +58,7 @@ export const translations = {
       },
     },
     notify: {
-      badge: 'Premiera: luty/marzec 2025',
+      badge: 'Premiera: luty/marzec 2026',
       title: 'Bądź pierwszy!',
       description: 'Zostaw swój email, a powiadomimy Cię gdy RealFish JigHead będzie dostępny w sprzedaży.',
       placeholder: 'Twój adres email',
@@ -129,7 +129,7 @@ export const translations = {
       },
     },
     notify: {
-      badge: 'Premiere: Februar/März 2025',
+      badge: 'Premiere: Februar/März 2026',
       title: 'Seien Sie der Erste!',
       description: 'Hinterlassen Sie Ihre E-Mail und wir benachrichtigen Sie, wenn RealFish JigHead zum Verkauf verfügbar ist.',
       placeholder: 'Ihre E-Mail-Adresse',
@@ -200,7 +200,7 @@ export const translations = {
       },
     },
     notify: {
-      badge: 'Launch: February/March 2025',
+      badge: 'Launch: February/March 2026',
       title: 'Be the first!',
       description: 'Leave your email and we will notify you when RealFish JigHead is available for purchase.',
       placeholder: 'Your email address',
