@@ -38,8 +38,11 @@ export const translations = {
       ],
     },
     about: {
-      title: 'O produkcie',
-      description: 'RealFish JigHead to owoc wieloletniego doświadczenia i pasji do wędkarstwa. Stworzyliśmy główkę jigową, która łączy w sobie najnowsze technologie z tradycyjnym rzemiosłem wędkarskim.',
+      title: 'O nas',
+      tagline: 'Przewaga dzięki świadomości. Detale, które zmieniają wynik.',
+      description1: 'Wierzymy, że w wędkarstwie nie ma miejsca na przypadek. Wierzymy, że sukces nad wodą to nie kwestia szczęścia, ale wynik świadomej obserwacji, zrozumienia natury i adaptacji do warunków. Dla nas wędkarstwo to nie loteria – to szlachetna gra strategiczna, w której wygrywa ten, kto dostrzega więcej.',
+      description2: 'Każdy nasz produkt jest wynikiem głębokiego namysłu nad konkretnym problemem, jaki stawia woda. Tworzymy rozwiązania, które pozwalają wędkarzowi "zmienić zmienne" na swoją korzyść. Nie sprzedajemy "magicznych przynęt" – dostarczamy narzędzia, które w rękach świadomego wędkarza stają się kluczem do wody.',
+      description3: 'Dostarczamy unikalne, rzemieślnicze rozwiązania wędkarskie, zaprojektowane z obsesyjną dbałością o detale. Nasze produkty są stworzone, by reagować na zmienne warunki, dając Ci kontrolę w momentach, gdy inni liczą na cud.',
       stats: [
         { value: '100%', label: 'Rękodzieło' },
         { value: '3', label: 'Rozmiary' },
@@ -118,8 +121,11 @@ export const translations = {
       ],
     },
     about: {
-      title: 'Über das Produkt',
-      description: 'RealFish JigHead ist das Ergebnis langjähriger Erfahrung und Leidenschaft für das Angeln. Wir haben einen Jigkopf geschaffen, der modernste Technologie mit traditionellem Angelhandwerk verbindet.',
+      title: 'Über uns',
+      tagline: 'Vorsprung durch Bewusstsein. Details, die das Ergebnis verändern.',
+      description1: 'Wir glauben, dass beim Angeln kein Platz für Zufall ist. Wir glauben, dass Erfolg am Wasser keine Frage des Glücks ist, sondern das Ergebnis bewusster Beobachtung, des Verstehens der Natur und der Anpassung an die Bedingungen. Für uns ist Angeln keine Lotterie – es ist ein edles strategisches Spiel, bei dem derjenige gewinnt, der mehr sieht.',
+      description2: 'Jedes unserer Produkte ist das Ergebnis eines tiefen Nachdenkens über ein spezifisches Problem, das das Wasser stellt. Wir schaffen Lösungen, die es dem Angler ermöglichen, "die Variablen" zu seinen Gunsten zu ändern. Wir verkaufen keine "Wunderköder" – wir liefern Werkzeuge, die in den Händen eines bewussten Anglers zum Schlüssel zum Wasser werden.',
+      description3: 'Wir liefern einzigartige, handwerkliche Angellösungen, die mit obsessiver Liebe zum Detail entworfen wurden. Unsere Produkte sind geschaffen, um auf wechselnde Bedingungen zu reagieren und Ihnen Kontrolle zu geben, wenn andere auf ein Wunder hoffen.',
       stats: [
         { value: '100%', label: 'Handarbeit' },
         { value: '3', label: 'Größen' },
@@ -198,8 +204,11 @@ export const translations = {
       ],
     },
     about: {
-      title: 'About the product',
-      description: 'RealFish JigHead is the result of years of experience and passion for fishing. We created a jig head that combines the latest technology with traditional fishing craftsmanship.',
+      title: 'About us',
+      tagline: 'Advantage through awareness. Details that change the outcome.',
+      description1: 'We believe there is no room for chance in fishing. We believe that success on the water is not a matter of luck, but the result of conscious observation, understanding nature, and adapting to conditions. For us, fishing is not a lottery – it is a noble strategic game where the one who sees more wins.',
+      description2: 'Each of our products is the result of deep reflection on a specific problem posed by the water. We create solutions that allow the angler to "change the variables" in their favor. We do not sell "magic lures" – we provide tools that, in the hands of a conscious angler, become the key to the water.',
+      description3: 'We deliver unique, artisanal fishing solutions designed with obsessive attention to detail. Our products are made to respond to changing conditions, giving you control in moments when others are counting on a miracle.',
       stats: [
         { value: '100%', label: 'Handcrafted' },
         { value: '3', label: 'Sizes' },

@@ -96,12 +96,17 @@ export const AboutSection = () => {
             viewport={{ once: true, margin: '-100px' }}
             transition={{ duration: 0.6 }}
           >
-            <h2 className="text-4xl md:text-5xl font-bold mb-6">
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <span className="gradient-text">{t.about.title}</span>
             </h2>
-            <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              {t.about.description}
+            <p className="text-lg font-medium text-primary mb-6 italic">
+              "{t.about.tagline}"
             </p>
+            <div className="space-y-4 text-muted-foreground leading-relaxed mb-8">
+              <p>{t.about.description1}</p>
+              <p>{t.about.description2}</p>
+              <p>{t.about.description3}</p>
+            </div>
 
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6">
