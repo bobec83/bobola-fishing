@@ -67,6 +67,12 @@ export const translations = {
       successSub: 'Powiadomimy Cię o starcie sprzedaży.',
       error: 'Podaj prawidłowy adres email',
     },
+    creator: {
+      badge: 'Twórca produktu',
+      title: 'Założyciel Bobola Fishing',
+      description: 'Pasjonat wędkarstwa z wieloletnim doświadczeniem. Każda główka RealFish JigHead jest tworzona ręcznie z dbałością o najdrobniejsze szczegóły.',
+      followFacebook: 'Obserwuj na Facebooku',
+    },
     footer: {
       rights: 'Wszelkie prawa zastrzeżone',
       tagline: 'Wędkarstwo na najwyższym poziomie',
@@ -141,6 +147,12 @@ export const translations = {
       successSub: 'Wir benachrichtigen Sie über den Verkaufsstart.',
       error: 'Bitte geben Sie eine gültige E-Mail-Adresse ein',
     },
+    creator: {
+      badge: 'Produktschöpfer',
+      title: 'Gründer von Bobola Fishing',
+      description: 'Leidenschaftlicher Angler mit langjähriger Erfahrung. Jeder RealFish JigHead wird von Hand mit Liebe zum Detail gefertigt.',
+      followFacebook: 'Auf Facebook folgen',
+    },
     footer: {
       rights: 'Alle Rechte vorbehalten',
       tagline: 'Angeln auf höchstem Niveau',
@@ -214,6 +226,12 @@ export const translations = {
       success: 'Subscribed!',
       successSub: 'We will notify you about the sales launch.',
       error: 'Please enter a valid email address',
+    },
+    creator: {
+      badge: 'Product Creator',
+      title: 'Founder of Bobola Fishing',
+      description: 'Passionate angler with years of experience. Every RealFish JigHead is handcrafted with attention to the finest details.',
+      followFacebook: 'Follow on Facebook',
     },
     footer: {
       rights: 'All rights reserved',
