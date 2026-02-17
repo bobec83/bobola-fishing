@@ -38,7 +38,7 @@ export const Footer = () => {
             <img
               src="/logo_bez_tla.png"
               alt="Bobola Fishing"
-              className="h-20 object-contain"
+              className="h-40 object-contain"
             />
             <p className="text-xs text-muted-foreground">{t.footer.tagline}</p>
           </div>
