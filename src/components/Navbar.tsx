@@ -44,7 +44,7 @@ export const Navbar = () => {
             <img
               src="/logo_bez_tla.png"
               alt="Bobola Fishing"
-              className="h-10 object-contain group-hover:scale-105 transition-transform"
+              className="h-20 object-contain group-hover:scale-105 transition-transform"
             />
           </a>
 
