@@ -42,7 +42,7 @@ export const Navbar = () => {
           {/* Logo */}
           <a href="#" className="flex items-center group">
             <img
-              src="/logo_bez_tla.jpg"
+              src="/logo_bez_tla.png"
               alt="Bobola Fishing"
               className="h-10 object-contain group-hover:scale-105 transition-transform"
             />

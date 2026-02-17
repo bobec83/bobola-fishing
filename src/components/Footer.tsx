@@ -36,7 +36,7 @@ export const Footer = () => {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <img
-              src="/logo_bez_tla.jpg"
+              src="/logo_bez_tla.png"
               alt="Bobola Fishing"
               className="h-10 object-contain"
             />
