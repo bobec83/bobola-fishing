@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Fish, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useTranslation } from '@/lib/i18n';
@@ -40,14 +40,12 @@ export const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-2 group">
-            <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center glow-primary group-hover:scale-105 transition-transform">
-              <Fish className="w-6 h-6 text-primary-foreground" />
-            </div>
-            <span className="font-bold text-xl tracking-tight">
-              <span className="text-foreground">Bobola</span>
-              <span className="gradient-text"> Fishing</span>
-            </span>
+          <a href="#" className="flex items-center group">
+            <img
+              src="/logo_bez_tla.jpg"
+              alt="Bobola Fishing"
+              className="h-10 object-contain group-hover:scale-105 transition-transform"
+            />
           </a>
 
           {/* Desktop Navigation */}
